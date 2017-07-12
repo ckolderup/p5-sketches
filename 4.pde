@@ -10,7 +10,7 @@ void draw() {
   stroke(#FF69B4);
 
   translate(0, height/2);
-  rotateX(radians(75));
+  rotateX(radians(55));
 
   //rows
   for (float i = 0; i < height; i += (height/scale)) {
